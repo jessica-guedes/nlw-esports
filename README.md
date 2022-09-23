@@ -3,7 +3,18 @@
 Projeto voltado para área de eSports e a ideia é basicamente conseguir conectar pessoas que jogam os mesmos games. A pessoa vai acessar a versão Web, visualizar todos os games e quais jogos tem mais anúncios e se quiser poderá publicar um anúncio com qual o jogo, seu nome e se a pessoa está procurando um parceiro para jogar, com horarios, discord…
 
 <br>
-  
+
+<p align ="left">
+    <img width = "700" height = "400" src= "web/src/assets/Landing.gif">
+<p>
+
+<br>
+
+<p align ="left">
+    <img width = "700" height = "400" src= "web/src/assets/anuncio.gif">
+<p>
+ 
+<br>
   
 ##  :rocket: Demonstração
 
