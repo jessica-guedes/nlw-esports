@@ -4,6 +4,8 @@ Projeto voltado para área de eSports e a ideia é basicamente conseguir conecta
 
 <br>
 
+
+
 <p align ="left">
     <img width = "700" height = "500" src= "web/src/assets/Landing.jpg">
 <p>
@@ -15,6 +17,8 @@ Projeto voltado para área de eSports e a ideia é basicamente conseguir conecta
 <p>
  
 <br>
+
+
   
 ##  :rocket: Demonstração
 
@@ -25,6 +29,7 @@ Projeto voltado para área de eSports e a ideia é basicamente conseguir conecta
     <img width = "700" height = "400" src= "web/src/assets/gif.gif">
 <p>
 
+Projeto no <a href = "https://www.figma.com/file/AUUQl7iXRtlZw8j4e1zG3B/NLW-eSports-(Community)?node-id=7%3A123">Figma </a>
 <br>
 
 
