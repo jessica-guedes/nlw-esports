@@ -5,13 +5,13 @@ Projeto voltado para área de eSports e a ideia é basicamente conseguir conecta
 <br>
 
 <p align ="left">
-    <img width = "700" height = "400" src= "web/src/assets/Landing.gif">
+    <img width = "700" height = "500" src= "web/src/assets/Landing.jpg">
 <p>
 
 <br>
 
 <p align ="left">
-    <img width = "700" height = "400" src= "web/src/assets/anuncio.gif">
+    <img width = "700" height = "500" src= "web/src/assets/anuncio.jpg">
 <p>
  
 <br>
